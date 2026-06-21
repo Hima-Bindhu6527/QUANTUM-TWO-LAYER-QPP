@@ -2,6 +2,7 @@
 Quantum based two-layer permutation cipher with dual-source key generation using decoy state BB84 protocol and QRNG via Qiskit
 
 Overview
+
 Classical permutation ciphers are considered weak due to key predictability and single-layer structure. This work addresses both:
 
 Two-layer architecture: First permutation at byte level, second at bit level
